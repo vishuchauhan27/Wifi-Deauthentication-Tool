@@ -50,7 +50,7 @@ Before running the tool, ensure you meet the following requirements:
   ```
   ### 🚀 Usage Instructions
   ```bash
-  git clone https://github.com/vishuchauhan27
+  git clone https://github.com/vishuchauhan27/Wifi-Deauthentication-Tool.git
   ```
 - ♨️Ensure executable permissions for the script
   ```bash
